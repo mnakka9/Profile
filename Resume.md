@@ -180,10 +180,8 @@ The project was based on Windows Forms and used SQL Server 2008 as database. Thi
 | Father's Name | Mallesh |
 | Languages Known | English, Telugu |
 | Nationality | Indian |
-| PAN Number | APFPN6486D |
 | Strength | Proactive, eager to learn new things, and commitment to do quality work |
 | Hobbies | Coding personal apps, reading books and watching Anime |
-| Permanent Address | House No: 5-201/10, Govindupalli, Jagtial, and Telangana - 505327. |
 
 I hereby declare that the above stated information is correct to the best of my knowledge.
 

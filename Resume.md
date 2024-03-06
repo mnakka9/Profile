@@ -1,9 +1,9 @@
 ---
-title: Document Center
+title: Mahesh's CV
 ---
 
 # **MAHESH NAKKA**
-**Senior Application Developer** | Hyderabad, India
+**Senior Technical Architect I** | Hyderabad, India
 
  [GitHub,](https://github.com/mnakka9)[LinkedIn](https://linkedin.com/in/mahesh-nakka-79050292/)
 [mahesh.nakka@hotmail.com](mailto:mahesh.nakka@hotmail.com)

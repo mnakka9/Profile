@@ -6,37 +6,41 @@ title: Document Center
 **Senior Application Developer** | Hyderabad, India
 
  [GitHub,](https://github.com/mnakka9)[LinkedIn](https://linkedin.com/in/mahesh-nakka-79050292/)
-[maheshnakka@hotmail.com](mailto:maheshnakka@hotmail.com) | +917893444099
+[mahesh.nakka@hotmail.com](mailto:mahesh.nakka@hotmail.com)
 
 ## **SUMMARY:**
-- Having **9 years 9 months** of diversified experience in **full stack development using Microsoft .NET and Angular** , worked on various web & desktop applications development using **C#, Asp.NET Web API, .NET Core, Angular 2+, entity framework, Azure CI/CD** with **Agile/Scrum** methodology.
-- Proficient in **C#, Asp.NET Web API, MVC including LINQ, JavaScript.**
-- Experienced **in .NET Core, Angular 2+, Typescript, Azure functions, Azure App Service, Azure DevOps**
-- Knowledgeable in **Azure Service bus, STRAPI, Postgres, React JS**
-- Strong knowledge in **SOLID** principles & some of the design patterns.
+- Having **11 years 3 months** of diversified experience in **Full stack development using Microsoft .NET and Angular** , worked on various web & desktop applications development using **C#, ASP.NET Web API, .NET Core, ASP.NET MVC, Angular 9-13, entity framework, Azure CI/CD** with **Agile/Scrum** methodology.
+- Proficient in **C#, ASP.NET Core,.NET Core, Web API, MVC including LINQ, JavaScript.**
+- Experienced **in Angular 2+, Typescript, Azure functions, Azure App Service, Azure DevOps, Azure Storage, Azure Redis Cache, Azure Service Bus**
+- Knowledgeable in **Message Queue, APIM using Azure & Ocelot, STRAPI, Postgres, React JS, Kafka**
+- Strong knowledge in **SOLID** principles & some of the design patterns like **Repository, CQRS with mediator, Adapter, Observer, Iterator, and the Gang of four**.
 
 ## **TECHNICAL EXPOSURE:** 
 
 |       |  |
 | ----------- | ----------- |
-| **Microsoft Technologies**      | C#, ASP.NET MVC, ASP.NET Web API, ADO.NET, LINQ, Win Forms Microsoft Azure, Entity Framework      |
+| **Microsoft Technologies**      | C#, .NET Core (3.1 - 8), ASP.NET MVC, ASP.NET Web API, ADO.NET, LINQ, Entity Framework, WCF, WPF  |
 | **Web Technologies**   | HTML5, XML, JavaScript, Typescript, Angular 2+, Basic level: React, Next JS|
+| **Cloud**   | Azure Functions, App services, Azure Redis Cache, Azure storage (blob, queue, tables), Azure Service bus, Azure search services |
 | **RDBMS** | MS – SQL 2008 – 2016, SQLite, Postgres, MySQL |
 |**IDE**| Visual Studio, Visual studio Code, SSMS 2008-16, Azure Data Studio, Azure Portal, Powershell|
- | **Configuration Management** |Team Foundation Server, GIT, Azure DevOps |
+| **Configuration Management** |Team Foundation Server, GIT, Azure DevOps |
+| **DevOps** |Azure DevOps CI/CD YAML pipelines, Knowledgeable on Terraform |
 
 ## **SELECTIVE ACCOMPLISHMENTS:**
 
-- Received recognition from client for creating a reusable angular library as NPM Package and for improving the performance of EF LINQ queries.
-- Appreciated for writing unit tests to improve the coverage to 90%
-- Received many Kudo's & recognitions from client Thomson Reuters for my work on Practical Law web application.
-- Received many pats on the back awards from EPAM for my work on HIP application.
-- Awarded best emerging employee award & promoted to senior for my work on PIM Risk dashboard for Royal Bank of Canada.
+- Received around 5+ Devon Value Awards (DVAs) for outstanding contributions to the respective sprint work.
+- Received recognition from the client for creating a reusable Angular library as an NPM Package and for improving the performance of EF LINQ queries.
+- Received many kudos and recognitions from the client, Thomson Reuters, for my work on the Practical Law web application.
+- Received many pats on the back awards from EPAM for my work on the HIP application.
+- Awarded the Best Emerging Employee Award and promoted to senior for my work on the PIM Risk dashboard for the Royal Bank of Canada.
 
 ## **EMPLOYMENT SUMMARY:**
 
 | **ORGANIZATION** | **DESIGNATION** | **DURATION** |
 | --- | --- | --- |
+| DevOn, India | Senior Technical Architect I | October 2023 - Present |
+| DevOn, India | Technical Architect III | October 2022 - October 2023 |
 | DevOn, Poland | Senior App Developer | January 2022 - Till now |
 | DevOn, India | Associate Architect II | September 2021 – December 2021 |
 | EPAM Systems, Belarus | Software Engineer | November 2017 – September 2021 |
@@ -44,8 +48,36 @@ title: Document Center
 | IGATE Global Solutions Ltd, Hyderabad | Senior Software Engineer | January 2014 – June 2015 |
 | IGATE Global Solutions Ltd, Hyderabad | Software Engineer | January 2013 – January 2014 |
 
+## **ACADEMIC PROFILE:**
+
+| **COURSE** | **INSTITUTION** | **YEAR OF PASSING** |
+| --- | --- | --- |
+| B.E (ECE) 82.47% | Vasavi College of engineering, Hyderabad | 2012 |
+
 ## **PROJECT DETAILS:**
 
+| **Project Name** | **Royal HaskoningDHV** |
+| --- | --- |
+| **Products:** | Climate Intelligence App (CIA), ENSIS |
+| **Client** | **RHDHV** |
+| **Role** | Senior Tech Architect |
+| **Organization** | DevOn, India |
+| **Languages:** | .NET 6 WEB API, Angular 13 (CIA), React (Ensis), Typescript, EF Core, Azure App service, Azure Functions App, Azure Storage, Azure Redis Cache, Terraform |
+| **Database:** | Azure SQL |
+| **Tools:** | Visual studio 2023, VS Code, Azure Data Studio, LINQPad, Azurite, Azure storage explorer |
+
+**Brief description of the project:**
+
+- The Ensis application is aimed at maintaining documents and related commitments. Primarily focused on wind farms, it has gradually been made to work with any type of commitments (such as airports and ports).
+- The Climate Intelligence App is aimed at showing hazard-related data for locations and their respective climate scores, including flood data, analysis horizon, climate scenarios, risks, crime, groundwater, etc
+
+**Responsible for:**
+- Participated in architecture decisions for both Ensis and CIA.
+- Created the backend for Ensis and worked on some important features in the backend for CIA.
+- Developed various components and services in Angular for CIA.
+- Helped team members in React development and decision challenges, such as selecting the React-Pdf-Viewer package for displaying PDFs.
+- Worked as a team lead and in-place Scrum Master for Ensis, succeeding in delivering a robust application with minimal bugs.
+  
 | **Project Name** | **Channels Content** |
 | --- | --- |
 | **Products:** | Employee Connect, FormsWeb, Forms Library |
@@ -167,25 +199,3 @@ The project was based on Windows Forms and used SQL Server 2008 as database. Thi
 - Involved in reducing the database hits and increasing performance of the application.
 - Involved in Metadata Management.
 - Involved in Help file creation and about screen of Application.
-
-## **ACADEMIC PROFILE:**
-
-| **COURSE** | **INSTITUTION** | **YEAR OF PASSING** |
-| --- | --- | --- |
-| B.E (ECE) 82.47% | Vasavi College of engineering, Hyderabad | 2012 |
-
-## **PERSONAL PROFILE:**
-
-| Mahesh Nakka |  |
-| --- | --- |
-| Date of Birth | 7th JAN 1991 |
-| Status | Married |
-| Father's Name | Mallesh |
-| Languages Known | English, Telugu |
-| Nationality | Indian |
-| Strength | Proactive, eager to learn new things, and commitment to do quality work |
-| Hobbies | Coding personal apps, reading books and watching Anime |
-
-I hereby declare that the above stated information is correct to the best of my knowledge.
-
-(Mahesh Nakka)

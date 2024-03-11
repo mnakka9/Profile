@@ -5,15 +5,14 @@ title: Mahesh's CV
 # **MAHESH NAKKA**
 **Senior Technical Architect I** | Hyderabad, India
 
- [GitHub,](https://github.com/mnakka9)[LinkedIn](https://linkedin.com/in/mahesh-nakka-79050292/)
-[mahesh.nakka@hotmail.com](mailto:mahesh.nakka@hotmail.com)
+[GitHub,](https://github.com/mnakka9) | [LinkedIn](https://linkedin.com/in/mahesh-nakka-79050292/) | [mahesh.nakka@hotmail.com](mailto:mahesh.nakka@hotmail.com)
 
 ## **SUMMARY:**
-- Having **11 years 3 months** of diversified experience in **Full stack development using Microsoft .NET and Angular** , worked on various web & desktop applications development using **C#, ASP.NET Web API, .NET Core, ASP.NET MVC, Angular 9-13, entity framework, Azure CI/CD** with **Agile/Scrum** methodology.
+- Having **11 years 3 months** of diversified experience in **Full stack development using Microsoft .NET and Angular** , worked on various web & desktop applications development using **C#,.NET Core, ASP.NET Web API, ASP.NET Core, ASP.NET MVC, Angular 9-13, entity framework, Azure CI/CD** with **Agile/Scrum** methodology.
 - Proficient in **C#, ASP.NET Core,.NET Core, Web API, MVC including LINQ, JavaScript.**
 - Experienced **in Angular 2+, Typescript, Azure functions, Azure App Service, Azure DevOps, Azure Storage, Azure Redis Cache, Azure Service Bus**
-- Knowledgeable in **Message Queue, APIM using Azure & Ocelot, STRAPI, Postgres, React JS, Kafka**
-- Strong knowledge in **SOLID** principles & some of the design patterns like **Repository, CQRS with mediator, Adapter, Observer, Iterator, and the Gang of four**.
+- Knowledgeable in **APIM using Azure & Ocelot, STRAPI, Postgres, React JS, Kafka**
+- Strong knowledge in **SOLID** principles & some of the design patterns like **Repository, CQRS with mediator, Adapter, Observer, Iterator, and some more etc..**.
 
 ## **TECHNICAL EXPOSURE:** 
 
@@ -64,7 +63,7 @@ title: Mahesh's CV
 | **Organization** | DevOn, India |
 | **Languages:** | .NET 6 WEB API, Angular 13 (CIA), React (Ensis), Typescript, EF Core, Azure App service, Azure Functions App, Azure Storage, Azure Redis Cache, Terraform |
 | **Database:** | Azure SQL |
-| **Tools:** | Visual studio 2023, VS Code, Azure Data Studio, LINQPad, Azurite, Azure storage explorer |
+| **Tools:** | Visual studio 2022, VS Code, Azure Data Studio, LINQPad, Azurite, Azure storage explorer |
 
 **Brief description of the project:**
 
